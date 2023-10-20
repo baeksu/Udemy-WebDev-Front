@@ -7,3 +7,5 @@
 ## 2023-10-18 TIL : Completed up to ch25
 
 ## 2023-10-19 TIL : Completed up to ch26
+
+## 2023-10-21 TIL : Completed up to ch31
