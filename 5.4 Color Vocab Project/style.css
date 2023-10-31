@@ -1,0 +1,33 @@
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+/* 
+
+3. Use CSS to change all the color titles to have "font-weight: normal;"
+4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide.  */
